@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  color: whitesmoke;
+  display: grid;
+  place-content: center;
+  text-align: center;
+}
+
+h1 {
+  font-size: 6rem;
+}
+p {
+  font-size: 4rem;
+}
